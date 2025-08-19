@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇬🏛️ Documentation for the related article containing political reasons for DeGoogling your life.
